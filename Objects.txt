@@ -1,0 +1,35 @@
+1. Vehicle Speed Governor (VSG)
+The main system being described. All functionalities revolve around it.
+
+2. Vehicle
+The host system that the VSG interacts with.
+
+3. ECU / Engine Control Unit
+Electronic control module for throttle, CAN, diagnostics.
+
+4. Driver
+End-user operating the vehicle.
+
+5. Fleet Operator / Logistics Company
+Responsible for compliance and performance monitoring.
+
+6. Regulatory Authority
+Ensures that standards are met.
+
+7. Dashboard Indicator / Alert System
+User interface to communicate with driver.
+
+8. Diagnostic Tool
+Used to retrieve logs and check status.
+
+9. Configuration Interface (OBD-II / CAN / External Tool)
+Used to set speed thresholds securely.
+
+10. Log / Event Log
+Records events like speed limiting, tampering, faults.
+
+11. Tamper Detection System
+Ensures unauthorized changes are detected.
+
+12. Power Supply System
+Handles VSG power and voltage regulation.
